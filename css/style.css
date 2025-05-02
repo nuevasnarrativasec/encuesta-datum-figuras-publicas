@@ -320,16 +320,65 @@ body, html {
                         font: 1rem/1.2 'actobold';
                         margin: 0 auto;
                         vertical-align: top;
+                        width: 10%;
                     }  
                         .box-bar{
                             display: inline-block;                           
                             vertical-align: top;
-                            width: 90%;
+                            width: 88%;
                         }         
                             .bar {
                                 height: 20px;
                                 background-color: #b38e33;                                
                             }
+                                .ancho-13{
+                                    width: 13%;
+                                }
+                                .ancho-16{
+                                    width: 16%;
+                                }
+                                .ancho-17{
+                                    width: 17%;
+                                }
+                                .ancho-18{
+                                    width: 18%;
+                                }
+                                .ancho-19{
+                                    width: 19%;
+                                }
+                                .ancho-23{
+                                    width: 23%;
+                                }
+                                .ancho-28{
+                                    width: 28%;
+                                }
+                                .ancho-40{
+                                    width: 40%;
+                                }
+                                .ancho-43{
+                                    width: 43%;
+                                }
+                                .ancho-44{
+                                    width: 44%;
+                                }
+                                .ancho-48{
+                                    width: 48%;
+                                }
+                                .ancho-51{
+                                    width: 51%;
+                                }
+                                .ancho-57{
+                                    width: 57%;
+                                }
+                                .ancho-66{
+                                    width: 66%;
+                                }
+                                .ancho-70{
+                                    width: 70%;
+                                } 
+                                .ancho-82{
+                                    width: 82%;
+                                }   
                                 .ancho-91{
                                     width: 91%;
                                 }                  
