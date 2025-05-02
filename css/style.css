@@ -144,6 +144,7 @@ body, html {
 
 #box-portada{
     padding-bottom: 80px;
+    padding-top: 40px;
 }
     .bg-portada,
     .logo-comercio{
@@ -472,6 +473,22 @@ body, html {
         .box-footer p span{
             font-family: 'actobold';
         }
+ul.creditos{
+    margin: 50px auto 0;
+    padding: 0;
+    text-align: center;
+}
+    ul.creditos li{
+
+    }
+        ul.creditos li p{
+            font: .9rem/1.5 'actobook';
+            margin: 0 auto 10px;
+        }
+            ul.creditos li p span{
+                display: block;
+                font-family: 'actobold';
+            }
 
   
 @media (max-width: 768px) {
